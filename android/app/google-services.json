@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558072114107",
+    "project_id": "vehicle-clg",
+    "storage_bucket": "vehicle-clg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558072114107:android:8a9cfcea992a922600729e",
+        "android_client_info": {
+          "package_name": "com.example.truckclgproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNhedbxh1w3L8s4C-dlHbQEE70wJxN01U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
